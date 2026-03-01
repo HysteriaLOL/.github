@@ -2,7 +2,7 @@
   <br />
 
   <p>
-    <code>⚠️ <strong>My work is licensed; message me for commercial use.</strong> ⚠️</code>
+    <code>⚠️ <strong>Hysteria is licensed and not open source.</strong> ⚠️</code>
   </p>
 
   <hr style="width: 50%; border: 0.5px solid #333; margin: 20px 0;" />
