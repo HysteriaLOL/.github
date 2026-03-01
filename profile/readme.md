@@ -49,7 +49,7 @@
           <br /><br />
           <strong style="color: #fff; font-size: 1.1em;">vicxovn</strong>
           <br />
-          <img src="https://img.shields.io/badge/HELPER-444444?style=for-the-badge&logo=handshake&logoColor=white" height="20" style="margin-top: 5px;" />
+          <img src="https://img.shields.io/badge/STAFF-7289DA?style=for-the-badge&logo=shield&logoColor=white" height="20" style="margin-top: 5px;" />
         </a>
       </td>
     </tr>
