@@ -26,7 +26,7 @@
       <b>AUTHED SERVERS:</b> <span style="color: #fff;">2</span>
     </span>
     <br /><br />
-    <img src="https://komarev.com/ghpvc/?username=HysteriaLOL&style=for-the-badge&color=2c2f33" style="height: 25px;">
+    <img src="https://komarev.com/ghpvc/?username=HysteriaLOL&style=plastic&color=ff69b4" style="height: 25px;">
   </div>
 
   <br />
