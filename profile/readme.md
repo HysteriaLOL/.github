@@ -2,7 +2,7 @@
   <br />
 
   <p>
-    <code>⚠️ <strong>Hysteria is licensed and not open source.</strong> ⚠️</code>
+    <code>⚠️ <strong>Hysteria is licensed, not open source, and is currently in beta</strong> ⚠️</code>
   </p>
 
   <hr style="width: 50%; border: 0.5px solid #333; margin: 20px 0;" />
