@@ -19,7 +19,7 @@
 
   <div style="font-family: 'Courier New', monospace; letter-spacing: 1px; margin: 15px 0;">
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
-      <b>AUTHED USERS:</b> <span style="color: #fff;">15</span>
+      <b>AUTHED USERS:</b> <span style="color: #fff;">16</span>
     </span>
     &nbsp;&nbsp;
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
