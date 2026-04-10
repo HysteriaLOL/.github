@@ -43,15 +43,6 @@
           <img src="https://img.shields.io/badge/OWNER-7289DA?style=for-the-badge&logo=crown&logoColor=white" height="20" style="margin-top: 5px;" />
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/vicxovn" style="text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/vicxovn.png" width="100" style="border-radius: 50%; border: 2px solid #444;" />
-          <br /><br />
-          <strong style="color: #fff; font-size: 1.1em;">2g5s</strong>
-          <br />
-          <img src="https://img.shields.io/badge/STAFF-7289DA?style=for-the-badge&logo=shield&logoColor=white" height="20" style="margin-top: 5px;" />
-        </a>
-      </td>
     </tr>
   </table>
 
