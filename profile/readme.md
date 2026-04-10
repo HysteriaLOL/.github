@@ -9,10 +9,10 @@
 
   <div>
     <h1 style="display: flex; align-items: center; justify-content: center; gap: 10px; font-family: sans-serif; letter-spacing: 2px;">
-      <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/logo.png" width="30" />
+      <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/hysteria.png" width="30" />
       HYSTERIA
     </h1>
-    <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/logo.png" width="220" alt="Logo" style="border-radius: 10px; margin: 10px 0;" />
+    <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/hysteria.png" width="220" alt="Logo" style="border-radius: 10px; margin: 10px 0;" />
   </div>
 
   <br />
@@ -26,7 +26,7 @@
       <b>AUTHED SERVERS:</b> <span style="color: #fff;">2</span>
     </span>
     <br /><br />
-    <img src="https://komarev.com/ghpvc/?username=HysteriaLOL&style=plastic&color=ff69b4" style="height: 25px;">
+    <img src="https://komarev.com/ghpvc/?username=HysteriaLOL&style=plastic&color=D8D8D8" style="height: 25px;">
   </div>
 
   <br />
