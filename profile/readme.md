@@ -19,7 +19,7 @@
 
   <div style="font-family: 'Courier New', monospace; letter-spacing: 1px; margin: 15px 0;">
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
-      <b>AUTHED USERS:</b> <span style="color: #fff;">16</span>
+      <b>AUTHED USERS:</b> <span style="color: #fff;">35</span>
     </span>
     &nbsp;&nbsp;
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
@@ -47,7 +47,7 @@
         <a href="https://github.com/vicxovn" style="text-decoration: none;">
           <img src="https://raw.githubusercontent.com/HysteriaLOL/.github/main/media/vicxovn.png" width="100" style="border-radius: 50%; border: 2px solid #444;" />
           <br /><br />
-          <strong style="color: #fff; font-size: 1.1em;">vicxovn</strong>
+          <strong style="color: #fff; font-size: 1.1em;">2g5s</strong>
           <br />
           <img src="https://img.shields.io/badge/STAFF-7289DA?style=for-the-badge&logo=shield&logoColor=white" height="20" style="margin-top: 5px;" />
         </a>
