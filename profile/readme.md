@@ -19,11 +19,11 @@
 
   <div style="font-family: 'Courier New', monospace; letter-spacing: 1px; margin: 15px 0;">
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
-      <b>AUTHED USERS:</b> <span style="color: #fff;">37</span>
+      <b>AUTHED USERS:</b> <span style="color: #fff;">43</span>
     </span>
     &nbsp;&nbsp;
     <span style="background: #1a1a1a; color: #7289da; border: 1px solid #333; padding: 8px 15px; border-radius: 6px; box-shadow: 0 0 5px rgba(114, 137, 218, 0.2);">
-      <b>AUTHED SERVERS:</b> <span style="color: #fff;">2</span>
+      <b>AUTHED SERVERS:</b> <span style="color: #fff;">1</span>
     </span>
     <br /><br />
     <img src="https://komarev.com/ghpvc/?username=HysteriaLOL&style=plastic&color=D8D8D8" style="height: 25px;">
